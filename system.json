@@ -1,0 +1,23 @@
+{
+    "name":"MG",
+    "title": "Magnagothica Maleghast",
+    "description": "system to play Magnagothica Maleghast",
+    "author": "RothgarLucy",
+    "version": 0.01,
+    "MinimumCoreVersion": "12.331",
+    "CompatibleCoreVersion": "12.331",
+    "esmodules": [
+        "MG.js"
+    ],
+    "styles:":[
+        "MG.css"
+    ],
+    "packs": [
+
+    ],
+    "languages":[
+
+    ],
+    "gridDistances": 1,
+    "gridUnits": "space(s)",
+}
